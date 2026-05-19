@@ -42,5 +42,8 @@ next-env.d.ts
 
 # clerk configuration (can include secrets)
 /.clerk/
+<<<<<<< HEAD
 
 /app/generated/prisma
+=======
+>>>>>>> 6c583afe79ccd73667ef4fa10463a800f9dbe8c3
